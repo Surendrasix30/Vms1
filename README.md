@@ -4,6 +4,6 @@ Mobile App
 
 #Run Project
 
-*yarn Install
-*react-native run-android
-*react-native start
+1)yarn Install
+2)react-native run-android
+3)react-native start
